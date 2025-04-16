@@ -1,5 +1,13 @@
 # Send Fake BTC - Bitcoin Simulator
 
+“Send fake BTC”
+
+“Fake Bitcoin sender”
+
+“Bitcoin prank tool”
+
+“Simulate BTC transaction”
+
 Welcome to **SendFakeBTC** – a project that lets you simulate sending **fake Bitcoin (BTC)** for fun, testing, or education.
 
 > ✅ This tool does NOT send real BTC. It's a **Bitcoin transaction simulator** meant for learning and jokes.
