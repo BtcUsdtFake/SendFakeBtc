@@ -1,5 +1,6 @@
 🚀 SendFakeBtc
-SendFakeBtc Logo
+
+SendFakeBtc
 
 Overview
 Welcome to SendFakeBtc repository - the ultimate solution for sending fake Bitcoins to anyone! Whether you want to prank your friends or test a Bitcoin-related software, SendFakeBtc has got you covered. With our innovative fake Bitcoin technology, you can simulate Bitcoin transactions with ease.
